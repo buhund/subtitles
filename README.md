@@ -8,5 +8,5 @@
 
 
 ### Kurzgesagt
-- Worst Nuclear Accidents in History ([Youtube](https://www.youtube.com/watch?v=Jzfpyo-q-RM))
+- [Worst Nuclear Accidents in History](https://github.com/iverik-no/Subtitles/tree/main/Worst%20Nuclear%20Accidents%20in%20History) ([Youtube link](https://www.youtube.com/watch?v=Jzfpyo-q-RM))
 
